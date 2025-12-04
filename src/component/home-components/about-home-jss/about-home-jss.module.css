@@ -206,6 +206,8 @@
   }
 }
 
+
+
 @media (max-width: 1024px) {
   .rightColumn {
     padding-left: 5rem;
@@ -216,8 +218,6 @@
   }
 
 }
-
-
 
 @media (max-width: 991px) {
   .topSectionHeading {
@@ -416,4 +416,10 @@
   .topSectionHeading span {
     max-width: 100%;
   }
+}
+@media (max-width: 420px) {
+ .highlightBox {
+  padding: 2.4rem 2.9rem 1.9rem;
+}
+
 }
